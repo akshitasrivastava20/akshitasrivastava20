@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Akshita Srivastava</h1>
 <h3 align="center">Aspiring web developer& Java enthusiast | Crafting code and verse</h3>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=akshitasrivastava20" alt="akshitasrivastava20" /></a> </p>
+
 
 - 🌱 I’m currently learning **DSA and Javascript**
 
